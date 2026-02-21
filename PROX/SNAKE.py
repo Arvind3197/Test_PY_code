@@ -1,54 +1,3 @@
-'''
-
-PYTHON PRACTICE
-
-==============================================================>DUMS
-x = 9
-y = 10
-
-if x < y:
-    print('you are right')
-
-else:
-    print('you are wrong')
-
-input =('the king: ')
-x = 'arvind'
-y = print('the king: '+ x) 
-
-x=type(str('5'))
-print (x)
-
-age = 70
-student = 'yes'
-
-if age >= 60 or student=='yes':
-
-no_of_persons = int(input('Enter how many persons: '))
-
-if no_of_persons > 2:
-    print ('not allowed')
-else:
-    print('allowed')
-'''
-'''
-name = str(input('enter your name: '))
-
-if name == ('arvind'):
-    print('welcome king')
-else:
-    print ('your are not a king')
- '''
-'''
-i = 1
-while i < 6:
-  print(i)
-  i += 1
-'''
-'''
-======================================================================> FROM W3
-'''
-
 ###########list comprehension
 
 padmi = ["skandan","murugan","subramani"]
@@ -186,8 +135,5 @@ def tri_recursion(k):
 print("Recursion Example Results: ")
 
 tri_recursion(6)
-
-
-
 
 
